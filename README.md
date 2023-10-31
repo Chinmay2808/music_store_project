@@ -1,3 +1,9 @@
 # music_store_project
 
-The queries are uploaded is two two different files. One contains moderate level of queries another contains a bit advanced.
+The respository contains 
+
+1. The music store database
+2. A schema picture
+3. Two query files:  One contains moderate level of queries another contains a bit advanced.
+
+
